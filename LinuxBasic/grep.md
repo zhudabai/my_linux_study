@@ -1,3 +1,4 @@
+# grep 和正则表达式
 ### grep
 
 ​	全称:Global search REgular expression and Print out the line文本过滤工具,按行显示出含有某个特定字符的工具,该工具最大的特点肯定是支持正则表达式,他还有两个按名字上来看算是一奶同胞的兄弟,egrep和fgrep,egrpe支持扩展正则表达式,而fgrep就不同了,他不支持正则表达式,由于grep提供了两个选项-F和-E分别可以完成fgrep和egrep的功能,所以这里仅讨论一下grep的用法
