@@ -7,6 +7,7 @@
    1. [**Linux用户管理**](https://github.com/zhudabai/my_linux_study/blob/master/LinuxBasic/Linux%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.md)
    2. [**文本处理三剑客(一)grep及正则表达式**](https://github.com/zhudabai/my_linux_study/blob/master/LinuxBasic/grep-and-pattern.md)
    3. [**vi/vim编辑器**](https://github.com/zhudabai/my_linux_study/blob/master/LinuxBasic/vivim%E7%BC%96%E8%BE%91%E5%99%A8.md)
+   4. [**程序包管理**](https://github.com/zhudabai/my_linux_study/blob/master/LinuxBasic/rpm%26yum.md)
 
 
 
