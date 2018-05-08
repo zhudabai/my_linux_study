@@ -8,6 +8,7 @@
    2. [**文本处理三剑客(一)grep及正则表达式**](https://github.com/zhudabai/my_linux_study/blob/master/LinuxBasic/grep-and-pattern.md)
    3. [**vi/vim编辑器**](https://github.com/zhudabai/my_linux_study/blob/master/LinuxBasic/vivim%E7%BC%96%E8%BE%91%E5%99%A8.md)
    4. [**程序包管理**](https://github.com/zhudabai/my_linux_study/blob/master/LinuxBasic/rpm%26yum.md)
+   5. [进程管理](https://github.com/zhudabai/my_linux_study/blob/master/LinuxBasic/Linux%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86.md)
 
 
 
