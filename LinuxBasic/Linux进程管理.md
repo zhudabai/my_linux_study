@@ -98,7 +98,7 @@
 
 > ​			1/SIGHUB:让进程重读配置文件
 >
->   			2/SIGINT:相当于执行Ctrl+c
+> ​			2/SIGINT:相当于执行Ctrl+c
 >
 > ​			3/SIGQUIT:相当于Ctrl+\,退出
 >
